@@ -1,0 +1,44 @@
+{
+ "organic": [
+  {
+   "link": "https://site0.example.com/blog/artigo-0",
+   "title": "Artigo 0 sobre o tema"
+  },
+  {
+   "link": "https://site1.example.com/blog/artigo-1",
+   "title": "Artigo 1 sobre o tema"
+  },
+  {
+   "link": "https://site2.example.com/blog/artigo-2",
+   "title": "Artigo 2 sobre o tema"
+  },
+  {
+   "link": "https://site3.example.com/blog/artigo-3",
+   "title": "Artigo 3 sobre o tema"
+  },
+  {
+   "link": "https://site4.example.com/blog/artigo-4",
+   "title": "Artigo 4 sobre o tema"
+  },
+  {
+   "link": "https://site5.example.com/blog/artigo-5",
+   "title": "Artigo 5 sobre o tema"
+  },
+  {
+   "link": "https://site6.example.com/blog/artigo-6",
+   "title": "Artigo 6 sobre o tema"
+  },
+  {
+   "link": "https://clutch.co/x",
+   "title": "Diretório"
+  },
+  {
+   "link": "https://a.example.com/ferramentas/gerador",
+   "title": "Gerador online"
+  },
+  {
+   "link": "https://b.example.com/pagina-sem-pista",
+   "title": "Qualquer"
+  }
+ ]
+}

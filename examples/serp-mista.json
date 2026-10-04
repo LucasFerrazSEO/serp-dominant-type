@@ -1,0 +1,32 @@
+{
+ "organic": [
+  {
+   "link": "https://a.example.com/",
+   "title": "Home"
+  },
+  {
+   "link": "https://b.example.com/servicos/x",
+   "title": "Serviço"
+  },
+  {
+   "link": "https://c.example.com/consultoria",
+   "title": "Consultoria"
+  },
+  {
+   "link": "https://d.example.com/blog/post",
+   "title": "Post"
+  },
+  {
+   "link": "https://e.example.com/blog/outro",
+   "title": "Post 2"
+  },
+  {
+   "link": "https://f.example.com/glossario/termo",
+   "title": "O que é termo"
+  },
+  {
+   "link": "https://g.example.com/x",
+   "title": "Top 10 melhores opções"
+  }
+ ]
+}
